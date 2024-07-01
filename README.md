@@ -2,7 +2,7 @@
 
 ## The role of data in promoting informed choices about where to live in Barcelona
 
-![image]()
+![image](Barcelona_GettyImages-114280140.webp)
 
 
 ## 📌 About the project
