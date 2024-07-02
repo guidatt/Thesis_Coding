@@ -10,6 +10,7 @@
 This thesis aims to promote more intelligent and informed decisions about where to live in a city like Barcelona utilizing data analysis and visualization. At the same time consider national statistics and crime rates, prices, income levels, level of traffic, and access to public transportation. More specifically, we used data from Idealista, INE, and other websites of interest to make our database. This data allowed us to devise a useful scheme for people who come from outside of Spain or anyone in general who wants to go to Barcelona to be more comfortable with their decision on where to live considering the variables mentioned before, making it easier for people to have information only locals usually know. 
 
 📄 [Here you can the thesis in detail!](https://docs.google.com/document/d/1EIa3EGX-Pmio0tc8xmhX-YNXR8pMZNcyAc_Nc4iHEUY/edit)
+
 📄 [Check here the medium article for the Idealista API coding created! ](https://medium.com/@guilhermedatt/calling-the-idealista-api-using-python-a39a843cf5cc)
 
 
